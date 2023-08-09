@@ -4,7 +4,6 @@ I am a beginner tester. I live in Wroclaw. This is where I will post my portfoli
 ### My CV 💬
 https://www.linkedin.com/in/lenadanilowa/
 
-### Postman 🔭
 
 
 
