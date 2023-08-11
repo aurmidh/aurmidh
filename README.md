@@ -4,6 +4,8 @@ I am a beginner tester. I live in Wroclaw. This is where I will post my portfoli
 ### My CV 💬
 https://drive.google.com/file/d/1TandT9HuSCaE67SD6qjNtkpYMhizs81a/view?usp=drive_link
 
+### My <a href="https://drive.google.com/file/d/1TandT9HuSCaE67SD6qjNtkpYMhizs81a/view?usp=drive_link">CV</a> 💬
+
 ### Postman ✨
 https://api.postman.com/collections/19117934-c6d75bd7-3d7c-4e39-ab15-6f225979ea28?access_key=PMAT-01H7FPWZDCCNX2MDQ3RYVEJSG8
 
