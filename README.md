@@ -1,5 +1,5 @@
 ### 👋 Hi there
-I am a beginner tester. I live in Wroclaw. This is where I will post my portfolio.
+I am a beginner Tester. I live in Wroclaw. This is where I will post my portfolio.
 
 ### <a href="https://drive.google.com/file/d/1TandT9HuSCaE67SD6qjNtkpYMhizs81a/view?usp=drive_link">✨ My CV</a>
 
